@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Picture">
+        <file>img/Back.jpg</file>
+        <file>img/WindowPicture.jpg</file>
+        <file>Back2.jpg</file>
+        <file>double.png</file>
+        <file>single.png</file>
+        <file>snake.jpg</file>
+        <file>exit.jpg</file>
+        <file>pause.jpg</file>
+        <file>snake2.jpg</file>
+        <file>blick.jpg</file>
+        <file>speedfood.png</file>
+        <file>gapple.png</file>
+        <file>snail.png</file>
+        <file>restart.jpg</file>
+    </qresource>
+    <qresource prefix="/new/Gamewindow">
+        <file>img/Apple.png</file>
+        <file>GameBack.jpg</file>
+        <file>snake.jpg</file>
+        <file>life.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
